@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/R9d5gqf/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "color_category_bg": "#0052FF33",
+        "color_card_bg": "#0052FFFF",
+        "color_text_and_button_bg": "#0052FF",
+        "description": "A health category donation is a generous contribution focused on improving public health. It supports medical research, healthcare access, disease prevention, and overall well-being. These donations come from individuals, organizations, or governments with a shared goal of enhancing public health and creating healthier communities.",
+        "price": 290.00
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/rtRLHdv/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "color_category_bg": "#FF444A33",
+        "color_card_bg": "#FF444A26",
+        "color_text_and_button_bg": "#FF444A",
+        "description": "An education category donation is a generous contribution aimed at advancing learning and knowledge. It supports educational institutions, scholarships, access to quality education, and resources for students. These donations come from individuals, organizations, or governments with a shared goal of improving access to education and empowering individuals through learning.",
+        "price": 290.00
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/D5cBTLG/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "color_category_bg": "#79C23F33",
+        "color_card_bg": "#79C23F26",
+        "color_text_and_button_bg": "#79C23F",
+        "description": "A clothing category donation involves giving to provide clothing and apparel to those in need. These contributions support individuals and communities by offering warmth, comfort, and protection from the elements. Donations of clothing can come from individuals, charities, or businesses, all with the shared goal of helping those less fortunate to access essential clothing items and maintain their dignity and well-being.",
+        "price": 290.00
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/Hpn7Sxb/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "color_category_bg": "#F8714733",
+        "color_card_bg": "#F8714726",
+        "color_text_and_button_bg": "#F87147",
+        "description": "A food category donation is a compassionate contribution made to alleviate hunger and provide sustenance to individuals and communities in need. These donations support food banks, shelters, and organizations that distribute meals and groceries to those facing food insecurity. Food category donations can come from individuals, charitable groups, or businesses, all with the common aim of addressing hunger, improving nutrition, and ensuring that everyone has access to an essential human necessity: nourishing food.",
+        "price": 290.00
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/Hpn7Sxb/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "color_category_bg": "#F8714733",
+        "color_card_bg": "#F8714726",
+        "color_text_and_button_bg": "#F87147",
+        "description": "A food category donation is a compassionate contribution made to alleviate hunger and provide sustenance to individuals and communities in need. These donations support food banks, shelters, and organizations that distribute meals and groceries to those facing food insecurity. Food category donations can come from individuals, charitable groups, or businesses, all with the common aim of addressing hunger, improving nutrition, and ensuring that everyone has access to an essential human necessity: nourishing food.",
+        "price": 290.00
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/D5cBTLG/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "color_category_bg": "#79C23F33",
+        "color_card_bg": "#79C23F26",
+        "color_text_and_button_bg": "#79C23F",
+        "description": "A clothing category donation involves giving to provide clothing and apparel to those in need. These contributions support individuals and communities by offering warmth, comfort, and protection from the elements. Donations of clothing can come from individuals, charities, or businesses, all with the shared goal of helping those less fortunate to access essential clothing items and maintain their dignity and well-being.",
+        "price": 290.00
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/rtRLHdv/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "color_category_bg": "#FF444A33",
+        "color_card_bg": "#FF444A26",
+        "color_text_and_button_bg": "#FF444A",
+        "description": "An education category donation is a generous contribution aimed at advancing learning and knowledge. It supports educational institutions, scholarships, access to quality education, and resources for students. These donations come from individuals, organizations, or governments with a shared goal of improving access to education and empowering individuals through learning.",
+        "price": 290.00
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/R9d5gqf/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "color_category_bg": "#0052FF33",
+        "color_card_bg": "#0052FFFF",
+        "color_text_and_button_bg": "#0052FF",
+        "description": "A health category donation is a generous contribution focused on improving public health. It supports medical research, healthcare access, disease prevention, and overall well-being. These donations come from individuals, organizations, or governments with a shared goal of enhancing public health and creating healthier communities.",
+        "price": 290.00
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/R9d5gqf/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "color_category_bg": "#0052FF33",
+        "color_card_bg": "#0052FFFF",
+        "color_text_and_button_bg": "#0052FF",
+        "description": "A health category donation is a generous contribution focused on improving public health. It supports medical research, healthcare access, disease prevention, and overall well-being. These donations come from individuals, organizations, or governments with a shared goal of enhancing public health and creating healthier communities.",
+        "price": 290.00
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/rtRLHdv/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "color_category_bg": "#FF444A33",
+        "color_card_bg": "#FF444A26",
+        "color_text_and_button_bg": "#FF444A",
+        "description": "An education category donation is a generous contribution aimed at advancing learning and knowledge. It supports educational institutions, scholarships, access to quality education, and resources for students. These donations come from individuals, organizations, or governments with a shared goal of improving access to education and empowering individuals through learning.",
+        "price": 290.00
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/D5cBTLG/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "color_category_bg": "#79C23F33",
+        "color_card_bg": "#79C23F26",
+        "color_text_and_button_bg": "#79C23F",
+        "description": "A clothing category donation involves giving to provide clothing and apparel to those in need. These contributions support individuals and communities by offering warmth, comfort, and protection from the elements. Donations of clothing can come from individuals, charities, or businesses, all with the shared goal of helping those less fortunate to access essential clothing items and maintain their dignity and well-being.",
+        "price": 290.00
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/Hpn7Sxb/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "color_category_bg": "#F8714733",
+        "color_card_bg": "#F8714726",
+        "color_text_and_button_bg": "#F87147",
+        "description": "A food category donation is a compassionate contribution made to alleviate hunger and provide sustenance to individuals and communities in need. These donations support food banks, shelters, and organizations that distribute meals and groceries to those facing food insecurity. Food category donations can come from individuals, charitable groups, or businesses, all with the common aim of addressing hunger, improving nutrition, and ensuring that everyone has access to an essential human necessity: nourishing food.",
+        "price": 290.00
+    }
+    
+]
