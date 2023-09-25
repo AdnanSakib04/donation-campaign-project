@@ -65,8 +65,7 @@ const DonationDetails = () => {
 
                 
                 <div
-                    className=" absolute bottom-0 left-0 w-full h-[90px] md:h-[110px] bg-[rgba(11,11,11,0.50)]"
-                >
+                    className=" absolute bottom-0 left-0 w-full h-[110px] bg-[rgba(11,11,11,0.50)]">
                     
            <div className="absolute bottom-1/4 left-8 md:left-10 lg:left-12">
            <button onClick={handleAddToDonation} style={{backgroundColor: donation.color_text_and_button_bg}} className="btn text-white text-xs md:text-[18px] border-none  font-semibold">Donate ${donation.price}</button>

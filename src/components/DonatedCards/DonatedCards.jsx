@@ -12,7 +12,7 @@ const DonatedCards = ({ donation }) => {
                     <h2 className={`card-title text-2xl font-semibold`}>{title}</h2>
                     <p style={{ color: color_text_and_button_bg }} className=" text-[16px] font-semibold">${price}</p>
                     <div className="card-actions justify-start">
-                        <button style={{ backgroundColor: color_text_and_button_bg }} className="btn w-[140px] h-[40px] text-white text-xs md:text-[16px] border-none  font-semibold">View Details</button>
+                        <button style={{ backgroundColor: color_text_and_button_bg }} className="btn w-[140px] h-[40px] text-white text-xs md:text-[16px] border-none  font-semibold ">View Details</button>
                     </div>
                 </div>
             </div>

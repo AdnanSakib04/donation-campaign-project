@@ -6,7 +6,7 @@ const NavBar = () => {
         <div className="max-w-[1320px] mx-auto">
             <nav className="flex justify-between items-center py-6  px-5">
 
-                <img className="h-[50px]" src={logo} alt="" />
+                <img className="h-[35px] md:h-[50px]" src={logo} alt="" />
 
                 <ul className="flex gap-5 text-[18px]">
                     <li>

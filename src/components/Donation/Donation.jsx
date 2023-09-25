@@ -40,7 +40,7 @@ const Donation = () => {
             }
           </div>
 
-          {donations.length > 4 && <button onClick={()=>setIsShow(!isShow)} className={`px-5 bg-[#009444] block mx-auto text-white w-[110px] h-[48px] rounded-lg font-semibold  ${isShow && 'hidden'}` }>
+          {donations.length > 4 && <button onClick={()=>setIsShow(!isShow)} className={`px-5 bg-[#009444] block mx-auto text-white w-[110px] h-[48px] rounded-lg font-semibold mb-10  ${isShow && 'hidden'}` }>
             See All
           </button>}
           {
