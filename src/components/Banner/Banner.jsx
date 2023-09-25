@@ -8,7 +8,7 @@ const Banner = () => {
                 <div>
            <h1 className="text-[#0B0B0B] text-3xl md:text-4xl lg:text-5xl font-bold text-center">I Grow By Helping People In Need</h1>
             <div className="form-control max-w-[300px] md:max-w-md mx-auto mt-10">
-                <label className="input-group">
+                <label className="input-group text-black">
 
                     <input type="text" placeholder="Search here...." className="input input-bordered w-[360px]" />
                     <span className="bg-[#FF444A] text-white">Search</span>
