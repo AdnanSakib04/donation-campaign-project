@@ -13,30 +13,29 @@ const DonationDetails = () => {
     
         const donatedItems = JSON.parse(localStorage.getItem("donations"));
     
-        //jokhon kisu nai tokhon e if vitor dhukba
         if (!donatedItems) {
             addedDonationList.push(donation);
           localStorage.setItem("donations", JSON.stringify(addedDonationList));
-          toast.success("Good job!",{
+          toast.success("Successfully Donated",{
             position: "top-center"
           });
         } 
         
         else {
     
-       const isExits = donatedItems.find((donation) => donation.id === id);
+       const isExits = donatedItems.find((donation) => donation.id === idInt);
     
           
           if (!isExits) {
     
             addedDonationList.push(...donatedItems, donation);
             localStorage.setItem("donations", JSON.stringify(addedDonationList));
-            toast.success("Good job!",{
+            toast.success("Successfully Donated",{
                 position: "top-center"
               });
            
           } else {
-            toast.error("duplicate",{
+            toast.error("You have already donated",{
                 position: "top-center"
               });
           }
