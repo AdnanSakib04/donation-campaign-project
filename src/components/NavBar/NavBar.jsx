@@ -3,8 +3,8 @@ import logo from '../../../public/Logo.png'
 
 const NavBar = () => {
     return (
-        <div>
-            <nav className="flex justify-between items-center py-6 shadow-md px-5">
+        <div className="max-w-[1320px] mx-auto">
+            <nav className="flex justify-between items-center py-6  px-5">
 
                 <img className="h-[50px]" src={logo} alt="" />
 
