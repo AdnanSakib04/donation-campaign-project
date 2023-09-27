@@ -3,7 +3,7 @@ import DonatedCards from "../DonatedCards/DonatedCards";
 
 const Donation = () => {
     const [donations, setDonations] = useState([]);
-  const [noFound, setNotfound] = useState(false);
+  const [notFound, setNotfound] = useState(false);
   const [isShow,setIsShow] = useState(false);
 
   console.log('-----------------------', donations);
@@ -18,14 +18,14 @@ const Donation = () => {
 
 
     } else {
-      setNotfound("No Data Found");
+      setNotfound("Empty");
     }
   }, []);
 
     return (
         <div>
-                  {noFound ? (
-        <p className="h-[80vh] flex justify-center items-center">{noFound}</p>
+              {notFound ? (
+        <h1 className="h-[70vh] flex justify-center items-center text-4xl font-bold">{notFound}</h1>
       ) : (
         <div>
           

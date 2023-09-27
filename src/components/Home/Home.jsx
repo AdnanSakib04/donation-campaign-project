@@ -93,7 +93,7 @@ const Home = () => {
             </div>
 
             {
-            error && <h1 className="text-4xl text-center font-bold mb-32">{error}</h1>
+            error && <h1 className="text-4xl text-center font-bold mb-40">{error}</h1>
         }
         </div>
     );
