@@ -53,9 +53,9 @@ const Statistics = () => {
     const COLORS = ['#FF444A', '#00C49F'];
 
     return (
-        <div className='mt-20 text-center'>
+        <div className='mt-20 text-center '>
             <ResponsiveContainer width="100%" height="100%">
-                <div className='max-w-[1320px] mx-auto border border-red-500 flex justify-center'>
+                <div className='max-w-[1320px] mx-auto  flex justify-center'>
 
                 <PieChart width={400} height={400}>
 
