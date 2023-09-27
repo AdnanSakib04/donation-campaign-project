@@ -8,16 +8,13 @@ const NavBar = () => {
 
                 <img className="h-[35px] md:h-[50px]" src={logo} alt="" />
 
-                <ul className="flex gap-5 text-[18px]">
+                <ul className="flex gap-5 text-[14px] md:text-[18px]">
                     <li>
                         <NavLink
                             to="/"
                             className={({ isActive, isPending }) =>
-                                isPending ? "pending" : isActive ? "text-[#FF444A] font-bold underline" : ""
-                            }
-                        >
+                                isPending ? "pending" : isActive ? "text-[#FF444A] font-bold underline" : ""}>
                             Home
-
                         </NavLink>
 
                     </li>
@@ -27,8 +24,7 @@ const NavBar = () => {
                             to="/donation"
                             className={({ isActive, isPending }) =>
                                 isPending ? "pending" : isActive ? "text-[#FF444A] font-bold underline" : ""
-                            }
-                        >
+                            }>
                             Donation
                         </NavLink>
 

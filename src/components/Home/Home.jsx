@@ -65,11 +65,11 @@ const Home = () => {
                     <div className="">
                         <div>
                             <h1 className="text-[#0B0B0B] text-3xl md:text-4xl lg:text-5xl font-bold text-center">I Grow By Helping People In Need</h1>
-                            <div className="form-control max-w-[300px] md:max-w-md mx-auto mt-10">
+                            <div className="form-control flex  items-center max-w-[200px] md:max-w-md mx-auto mt-10">
                                 <form onSubmit={handleSubmit}>
                                     <label className="input-group text-black">
 
-                                        <input type="text" onChange={handleSearchChange} placeholder="Search here...." className="input input-bordered w-[360px]" />
+                                        <input type="text" onChange={handleSearchChange} placeholder="Search here...." className="input input-bordered md:w-[360px]" />
                                         <span className="bg-[#FF444A] text-white">
 
 
