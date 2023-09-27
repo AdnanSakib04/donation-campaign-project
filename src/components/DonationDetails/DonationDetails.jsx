@@ -57,7 +57,7 @@ const DonationDetails = () => {
             <div className="relative">
             <div className=" mx-5 md:mx-0 relative ">
                 <img
-                    className="w-full md:min-w-full mx-auto max-h-[700px] my-14 "
+                    className="w-full md:min-w-full mx-auto max-h-[700px] my-14 rounded-lg"
                     src={donation.picture}
                     alt=""
                 />
