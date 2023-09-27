@@ -35,7 +35,7 @@
     {
         "id": 4,
         "picture": "https://i.ibb.co/P6233Px/food1.jpg",
-        "title": "Hunger Relief",
+        "title": "Emergency Hunger Relief",
         "category": "Food",
         "color_category_bg": "#F8714733",
         "color_card_bg": "#F8714726",
@@ -79,7 +79,7 @@
     {
         "id": 8,
         "picture": "https://i.ibb.co/8rKBY2M/health2.jpg",
-        "title": "Relief for Disaster Victims",
+        "title": "Emergency Relief",
         "category": "Health",
         "color_category_bg": "#0052FF33",
         "color_card_bg": "#0052FF26",
@@ -90,7 +90,7 @@
     {
         "id": 9,
         "picture": "https://i.ibb.co/DgwmqPS/health3.jpg",
-        "title": "Supporting Children's Health",
+        "title": "Children's Health",
         "category": "Health",
         "color_category_bg": "#0052FF33",
         "color_card_bg": "#0052FF26",
@@ -112,7 +112,7 @@
     {
         "id": 11,
         "picture": "https://i.ibb.co/By4D24V/clothing3.jpg",
-        "title": "School Uniforms for Children",
+        "title": "Uniforms for Children",
         "category": "Clothing",
         "color_category_bg": "#79C23F33",
         "color_card_bg": "#79C23F26",
